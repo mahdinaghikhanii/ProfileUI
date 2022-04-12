@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">profle</string>
+    <string name="app_name">Profle</string>
+    <string name="main_editProfileBTN">Edit Profile</string>
+    <string name="main_TextName">Mahdi Naghikhani</string>
+    <string name="main_BtnDone">Done</string>
+    <string name="main_ViewWebSite" >View WebSite</string>
 </resources>
